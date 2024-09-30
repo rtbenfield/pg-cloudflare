@@ -1,0 +1,20 @@
+{
+  "name": "@rtbenfield/pg-cloudflare",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.5.12",
+    "@cloudflare/workers-types": "^4.20240925.0",
+    "@rtbenfield/tsconfig-workers": "^0.0.3",
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/pg": "^8.11.10",
+    "dotenv": "^16.4.5",
+    "hono": "^4.6.3",
+    "pg": "^8.13.0",
+    "typescript": "^5.6.2",
+    "vitest": "^2.1.1",
+    "wrangler": "^3.78.12"
+  }
+}

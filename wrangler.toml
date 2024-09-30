@@ -1,0 +1,7 @@
+name = "pg-cloudflare"
+compatibility_date = "2024-09-25"
+compatibility_flags = ["nodejs_compat"]
+upload_source_maps = true
+
+[alias]
+"pg-cloudflare" = "./pg-cloudflare.ts"
